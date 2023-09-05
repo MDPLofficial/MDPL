@@ -9,5 +9,5 @@ document.getElementById("cls-btn").addEventListener("click", function() {
 })
 
 document.getElementById("cotn-btn").addEventListener("click", function() {
-    window.location.href = "/anketa.html";
+    window.location.href = "anketa.html";
 })
